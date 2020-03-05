@@ -1,0 +1,44 @@
+/*debug*/
+
+.container{
+  background-color: grey;
+  height: 100px;
+  border: 1px solid black;
+}
+
+[class*="col-"]{
+  border: 1px solid red;
+}
+
+/*nav*/
+nav{
+  background-color: #ffffff;
+  height: 70px;
+}
+
+nav img{
+  width: 110%;
+  height: auto;
+  padding-left: 10px;
+}
+
+.nav>li.disabled>a {
+  color: black;
+}
+
+.navigazione{
+  padding: 14px 0 12px 18px;
+}
+
+.bottom{
+  padding: 18px 15px;
+  float: right;
+}
+
+.btn {
+  border: 1px solid #0069ff;
+  color: #0069ff;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 6px 16px;
+}
