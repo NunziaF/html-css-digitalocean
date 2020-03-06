@@ -148,3 +148,50 @@ section img{
   padding: 20px;
   color: #0069ff;
 }
+
+/*sez2*/
+
+.sez2 h3{
+  text-align: center;
+  padding-top: 20px;
+}
+
+.sez2 .titolo p{
+  text-align: center;
+  opacity: 0.7;
+  font-size: 15px;
+  padding-bottom: 15px;
+}
+
+.sez2 .sezione ul{
+  list-style: none;
+  opacity: 0.7;
+  color:
+}
+
+.sez2 .sezione img{
+  height: 100%;
+}
+
+.sezione p{
+  font-size: 12px;
+}
+
+.sezione{
+  padding-top: 20px;
+}
+
+.sezione img{
+  padding-top: 10px;
+}
+
+.sez2{
+  padding-bottom: 40px;
+}
+
+.sez2 .sezione ul li{
+  line-height: 2.5;
+  font-size: 15px;
+  border-left: solid 1px grey;
+  padding-left: 10px;
+}
